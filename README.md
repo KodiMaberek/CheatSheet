@@ -35,13 +35,6 @@ flowchart TD;
 A[untracked] -- git add --> B[staged + tracked];
 B -- git commit --> C[tracked];
 C -- changes --> D[modifier];
-D -- git add --> A;
-A -- changes --> D;
+D -- git add --> B;
+B -- changes --> D;
 ```
-
-%% Adjusting line styles %%
-classDef thinLine stroke-width:1px,stroke-dasharray: 2,2;
-class A thinLine;
-class D thinLine;
-
-
