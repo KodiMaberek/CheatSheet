@@ -27,3 +27,13 @@
 * rmdir images — удали папку images;
 * rm -r second-project — удали папку second-project и всё, что она содержит.
 
+Ssh key
+
+* cd ~ go to home directory
+* ls -la .ssh/ - check all made’s ssh keys
+
+Generation ssh key 
+* ssh-keygen -t ed25519 -C "электронная почта, к которой привязан ваш аккаунт на GitHub" ( if error - go to step 2);
+* ssh-keygen -t rsa -b 4096 -C "электронная почта, к которой привязан ваш аккаунт на GitHub"; 
+* ls -a ~/.ssh  - проверка сгенерированных ключей;
+* ssh -T git@github.com  -  check correct key.
