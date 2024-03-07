@@ -1,10 +1,10 @@
-#It's Cheat sheet for Git Hub
+#It's Cheat sheet for Git Hub#
 ---
-##I made this only for myself
+##I made this only for myself##
 
 *I add to this file all information that i know, and of course i'll add new information every time.*
 
-##This instuction uncliding ingo about 
+##This instuction uncliding ingo about##
 
 1. Navigation
 ---
@@ -38,3 +38,15 @@ C -- changes --> D[modifier];
 D -- git add --> B;
 B -- changes --> D;
 ```
+---
+7. Getting started with Git.
+- init
+- connecting remote to local repo
+- preparing file to commit
+- making and publication commit
+- viewing info about commit
+- checing filies status
+- add change in last commit 
+- restore files and commits
+- check differnces 
+
