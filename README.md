@@ -1,10 +1,10 @@
-#It's Cheat sheet for Git Hub#
+# It's Cheat sheet for Git Hub
 ---
-##I made this only for myself##
+## I made this only for myself
 
 *I add to this file all information that i know, and of course i'll add new information every time.*
 
-##This instuction uncliding ingo about##
+## This instuction uncliding ingo about
 
 1. Navigation
 ---
